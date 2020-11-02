@@ -10,7 +10,7 @@ xd > export
 format: svg
 styling: internal css 
 
-rename the file, example:
+rename the file and only use letters, numbers and dashes, example:
 svg-down-chevron.svg
 
 change directory to where the svg file is
